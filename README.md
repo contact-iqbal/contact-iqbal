@@ -2,4 +2,4 @@ Saya adalah seorang Web Developer dan Fullstack Developer yang berbasis di SMK A
 
 Selain itu, saya juga memiliki keahlian di bidang Cybersecurity.
 
-[Selengkapnya →](https://github.com/contact-iqbal)
+[Selengkapnya →](https://www.linkedin.com/in/contact-iqbal/)
