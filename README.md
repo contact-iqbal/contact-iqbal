@@ -1,7 +1,5 @@
-Hey, I am an Web Developer and a Fullstack Developer based in SMK Antartika 2 Sidoarjo.
+Saya adalah seorang Web Developer dan Fullstack Developer yang berbasis di SMK Antartika 2 Sidoarjo. Dengan lebih dari 3 tahun pengalaman, saya telah bekerja terutama dengan startup dan scaleup, memimpin berbagai tim dalam membangun produk berkualitas tinggi dengan performa yang optimal.
 
-I have over 3 years of experience working mostly with startups and scaleups. having led teams of all sizes and shapes with a strong focus on building high-performing teams and delivering high-quality products.
+Selain itu, saya juga memiliki keahlian di bidang Cybersecurity.
 
-I am also a Cyber security developer.
-
-[more about me →](https://github.com/contact-iqbal)
+[Selengkapnya →](https://github.com/contact-iqbal)
