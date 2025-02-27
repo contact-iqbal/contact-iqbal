@@ -4,4 +4,4 @@ I have over 3 years of experience working mostly with startups and scaleups. hav
 
 I am also a Cyber security developer.
 
-[more about me](https://github.com/contact-iqbal)
+[more about me →](https://github.com/contact-iqbal)
